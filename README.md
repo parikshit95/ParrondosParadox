@@ -15,7 +15,9 @@ multiple of 3 in his pocket.While, Game C simply involves alternating between Ga
 B with equal chance. For each trial, we flip a coin 10,000 times and keep track of aggregate
 winnings under the setup of each game. This is then repeated for 1000 trials, the results
 averaged and finally plotted to gain some insight into the trend over the 1000 repetitions and
-under different magnitudes of the bias (e). 
+under different magnitudes of the bias (e). The resultant paradox in the simulations is describes in the image below:
+
+![all_simulations](https://cloud.githubusercontent.com/assets/23605075/23584350/ffb973da-012c-11e7-8a1f-2bd62a79981b.png)
 
 Interestingly, we demonstrate that the random transition from each of these states under the
 games can be modeled using matrices known as Markov matrices. The transform defined by such
