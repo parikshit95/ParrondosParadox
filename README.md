@@ -28,7 +28,9 @@ how this discrete dynamical system would always approach a steady state.
 
 The rest of the paper is organized as follows, section II. introduces the games more formally and
 describes the results of the simulations.Section III. and IV. model the game by elaborating on the
-theory behind MarkovChains, Discrete Dynamical Systems and the Perron 􀀀 Frobenius Theorem
+theory behind MarkovChains, Discrete Dynamical Systems and the Perron-Frobenius Theorem
 and evaluates whether theory explains the results from the simulations respectively.Section V.
 concludes. Finally, Section VI. ponders on the applications of the model and their scope in fields
 such as Finance.
+
+The Matlab files here can be used to run similar simulations involving biased coins.
