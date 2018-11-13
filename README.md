@@ -1,4 +1,4 @@
-# ParrondosParadox
+# Parrondos Paradox
 
 As counter intuitive as it may seem, in certain games, a combination of losing strategies can yield
 a winning strategy. This fascinating phenomenon was discovered by physicist Juan Parrondo
